@@ -1,4 +1,4 @@
-# Puppeteer, Mocha & Chai POC
+# The test has been done with Puppeteer, Mocha & Chai POC
 Concept for end2end functional testing using Puppeteer, Mocha and Chai in Chrome headless mode. It shows a couple of solutions that search in CNN.
 
 ## Installation
