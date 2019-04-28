@@ -4,7 +4,7 @@ Concept for end2end functional testing using Puppeteer, Mocha and Chai in Chrome
 ## Installation
 First of all you need to have [Node.js](https://nodejs.org/en/) and [Chrome](https://www.google.es/chrome/index.html) browser installed. Once you have them, in order to install the tests, follow the next steps:
 ```
-git clone https://github.com/JrVillabona/testCNN.git
+git clone https://github.com/JrVillabona/villabona-test-AQA.git
 cd puppeteer-mocha-chai
 npm install
 ```
